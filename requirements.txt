@@ -1,0 +1,11 @@
+Ipython
+h5py
+notebook
+click
+numpy
+scipy
+scikit-learn
+matplotlib
+pytest-runner
+pytest
+-e .
